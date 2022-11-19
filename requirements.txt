@@ -1,0 +1,7 @@
+h5py
+Keras
+numpy
+PyYAML
+scikit-learn
+scipy
+sklearn

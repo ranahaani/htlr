@@ -1,0 +1,108 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="href" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="ngx-loading-bar" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="69">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="1" class="java.lang.String" itemvalue="protobuf" />
+            <item index="2" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="3" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="4" class="java.lang.String" itemvalue="kombu" />
+            <item index="5" class="java.lang.String" itemvalue="pycparser" />
+            <item index="6" class="java.lang.String" itemvalue="google-cloud-logging" />
+            <item index="7" class="java.lang.String" itemvalue="graphene-django" />
+            <item index="8" class="java.lang.String" itemvalue="certifi" />
+            <item index="9" class="java.lang.String" itemvalue="lxml" />
+            <item index="10" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="11" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="12" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="13" class="java.lang.String" itemvalue="extract-msg" />
+            <item index="14" class="java.lang.String" itemvalue="google-cloud-runtimeconfig" />
+            <item index="15" class="java.lang.String" itemvalue="argcomplete" />
+            <item index="16" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="17" class="java.lang.String" itemvalue="analytics-python" />
+            <item index="18" class="java.lang.String" itemvalue="python-pptx" />
+            <item index="19" class="java.lang.String" itemvalue="sendgrid" />
+            <item index="20" class="java.lang.String" itemvalue="attrs" />
+            <item index="21" class="java.lang.String" itemvalue="hiredis" />
+            <item index="22" class="java.lang.String" itemvalue="dj-stripe" />
+            <item index="23" class="java.lang.String" itemvalue="jedi" />
+            <item index="24" class="java.lang.String" itemvalue="pdfminer.six" />
+            <item index="25" class="java.lang.String" itemvalue="aioredis" />
+            <item index="26" class="java.lang.String" itemvalue="channels" />
+            <item index="27" class="java.lang.String" itemvalue="django-sendgrid-v5" />
+            <item index="28" class="java.lang.String" itemvalue="django-filter" />
+            <item index="29" class="java.lang.String" itemvalue="textract" />
+            <item index="30" class="java.lang.String" itemvalue="CacheControl" />
+            <item index="31" class="java.lang.String" itemvalue="google-cloud-core" />
+            <item index="32" class="java.lang.String" itemvalue="msgpack" />
+            <item index="33" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="34" class="java.lang.String" itemvalue="decorator" />
+            <item index="35" class="java.lang.String" itemvalue="django-environ" />
+            <item index="36" class="java.lang.String" itemvalue="django-graphql-jwt" />
+            <item index="37" class="java.lang.String" itemvalue="firebase-admin" />
+            <item index="38" class="java.lang.String" itemvalue="django-ckeditor" />
+            <item index="39" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="40" class="java.lang.String" itemvalue="google-cloud-storage" />
+            <item index="41" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="42" class="java.lang.String" itemvalue="django-storages" />
+            <item index="43" class="java.lang.String" itemvalue="google-cloud-tasks" />
+            <item index="44" class="java.lang.String" itemvalue="requests" />
+            <item index="45" class="java.lang.String" itemvalue="django-flags" />
+            <item index="46" class="java.lang.String" itemvalue="graphene" />
+            <item index="47" class="java.lang.String" itemvalue="grpc-google-iam-v1" />
+            <item index="48" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="49" class="java.lang.String" itemvalue="django-helpdesk" />
+            <item index="50" class="java.lang.String" itemvalue="XlsxWriter" />
+            <item index="51" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="52" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="53" class="java.lang.String" itemvalue="billiard" />
+            <item index="54" class="java.lang.String" itemvalue="autopep8" />
+            <item index="55" class="java.lang.String" itemvalue="graphene-file-upload" />
+            <item index="56" class="java.lang.String" itemvalue="parso" />
+            <item index="57" class="java.lang.String" itemvalue="ipython" />
+            <item index="58" class="java.lang.String" itemvalue="django-compressor" />
+            <item index="59" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="60" class="java.lang.String" itemvalue="channels-redis" />
+            <item index="61" class="java.lang.String" itemvalue="Django" />
+            <item index="62" class="java.lang.String" itemvalue="argon2-cffi" />
+            <item index="63" class="java.lang.String" itemvalue="grpcio" />
+            <item index="64" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="65" class="java.lang.String" itemvalue="pytz" />
+            <item index="66" class="java.lang.String" itemvalue="google-auth" />
+            <item index="67" class="java.lang.String" itemvalue="Twisted" />
+            <item index="68" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

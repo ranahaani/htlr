@@ -1,6 +1,4 @@
-# USAGE
-# python htlr.py --save-model 1 --weights output/htlr.hdf5
-# python htlr.py --load-model 1 --weights output/htlr.hdf5
+
 
 
 from keras.optimizers import SGD
